@@ -1,0 +1,16 @@
+{
+  "name": "Celine Fabry Bursztein virtual card",
+  "short_name": "Celine Fabry Bursztein",
+  "description": "Celine Fabry Bursztein's virtual busines card",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "134x134",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "theme_color": "#FFF",
+  "background_color": "#000"
+}
